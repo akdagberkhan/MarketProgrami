@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSis", "MarketSis\MarketSis.csproj", "{C8C0F0B8-D2F8-46E5-927F-C59812EB775A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MarketSisSetup", "MarketSisSetup\MarketSisSetup.vdproj", "{845997DD-BBA3-4873-938F-F296189FB19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C0F0B8-D2F8-46E5-927F-C59812EB775A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C0F0B8-D2F8-46E5-927F-C59812EB775A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C0F0B8-D2F8-46E5-927F-C59812EB775A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C0F0B8-D2F8-46E5-927F-C59812EB775A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845997DD-BBA3-4873-938F-F296189FB19B}.Debug|Any CPU.ActiveCfg = Debug
+		{845997DD-BBA3-4873-938F-F296189FB19B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
